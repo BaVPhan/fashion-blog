@@ -1,0 +1,75 @@
+html {
+  border-left: 3px solid grey;
+}
+
+h1 a {
+  text-decoration: none;
+  font-weight: lighter;
+  color: red;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: lighter;
+  font-size: 29px;
+}
+
+h2 a {
+  text-decoration: none;
+  font-size: 35px;
+  color: black;
+}
+
+h3 {
+  color: gray;
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+h4 a {
+  float: right;
+  text-decoration: none;
+  color: red;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  color: grey;
+  font-size: 25px;
+  margin-left: 8px;
+  font-weight: lighter;
+}
+
+p.introduction:first-letter {
+  font-size: 44px;
+  float: left;
+  color: #D4D4C7 ;
+  line-height: 35px;
+  padding-top: 3px;
+  padding-right: 3px;
+  font-family: Times, serif, Georgia;
+}
+
+footer {
+  text-align: center;
+  color: grey;
+}
+
+footer a {
+  color: red;
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 8px;
+}
+
+footer p {
+  float: left;
+}
+
+img {
+  margin: auto;
+  width: 100%;
+}
